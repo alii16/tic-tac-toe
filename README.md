@@ -1,4 +1,4 @@
-# calculator
+# Tic tac Toe Game
 
 [Demo](https://alii16.github.io/tic-tac-toe/)
 
